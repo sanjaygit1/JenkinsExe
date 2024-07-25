@@ -38,6 +38,7 @@ public class CreateCampaignsTest extends BaseClass {
 //@Test(retryAnalyzer =Generic_Utilities.RetryAnalyserImp.class )
 	
 	//RUN
+	//Exec
 	@Test
 	public void createCampaignsTest() throws Throwable {
        
