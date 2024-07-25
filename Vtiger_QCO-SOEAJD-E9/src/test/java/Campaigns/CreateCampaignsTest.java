@@ -37,6 +37,7 @@ import Object_Repository.VtigerLoginPage;
 public class CreateCampaignsTest extends BaseClass {
 //@Test(retryAnalyzer =Generic_Utilities.RetryAnalyserImp.class )
 	
+	//RUN
 	@Test
 	public void createCampaignsTest() throws Throwable {
        
